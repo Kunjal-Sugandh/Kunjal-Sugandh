@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Kunjal! 👋 
 
-<!--
-**Kunjal-Sugandh/Kunjal-Sugandh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I love diving into code and exploring innovative tech solutions that make a difference.
 
-Here are some ideas to get you started:
+## ABOUT ME
+- 🎓 **BCA Final Year Student** passionate about technology and continuous learning.
+- 🏆 **Achievements**: Student of the Year for two consecutive years | Finalist in Smart India Hackathon | Winner of the Raisoni Tech Hackathon.
+- 🎯 **Technical Skills**: Proficient in Python, HTML, CSS, JavaScript, and SQL. Currently exploring GitHub to enhance my coding abilities and showcase my projects.
+- 🌱 **Core Strengths**: Strong skills in Logical Thinking, Problem-Solving, Team Leadership, and Public Speaking.
+- 💼 **Career Interests**: Actively seeking opportunities in Corporate IT roles and always ready for new challenges!
+- 🔭 **Current Focus**: Working on developing new skills to build impactful projects and further enhance my technical expertise.
+- 😄 **Growth Mindset**: Eager to learn, grow, and contribute to projects that make a positive impact in the tech community.
+- 👯 **Collaboration Goals**: Looking to collaborate on data-driven projects and software development challenges to learn from others and share knowledge.
+- ⚡ **Fun Fact**: I aspire to travel the world, live a simple yet adventurous life, and find joy in learning something new every day!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+- **LinkedIn**: [Kunjal Sugandh](https://www.linkedin.com/in/kunjal-sugandh-bbb139262)  
+- **Email**: [kunjalsugandh@gmail.com](mailto:kunjalsugandh@gmail.com)
+
+Feel free to connect with me and check out my work below!
+
+
+
+
+
