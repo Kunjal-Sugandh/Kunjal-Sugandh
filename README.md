@@ -19,6 +19,10 @@ Welcome to my GitHub profile! I love diving into code and exploring innovative t
 
 Feel free to connect with me and check out my work below!
 
+<div id="header" align="center">
+  <iframe src="https://giphy.com/embed/VPnfM9bmR0ZaQo3qtK" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/ArkusNexus-palmar22-viajemind-thesandboxmind-VPnfM9bmR0ZaQo3qtK">via GIPHY</a></p>
+</div>
+
 
 
 
